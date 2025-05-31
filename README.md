@@ -105,7 +105,6 @@ books/pride_prejudice.txt     |  122345 |        18976 |       80.12 |      0.15
 bookbot/
 ├── main.py              # CLI entry point
 ├── stats.py             # Core text analysis logic
-├── requirements.txt     # Dependencies
 ├── books/               # Sample books
 ├── outputs/             # Generated exports
 ├── .gitignore
