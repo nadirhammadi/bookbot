@@ -1,5 +1,5 @@
 # 📚 BookBot
-
+> This project was developed solely for educational purposes to practice Python programming skills.
 > BookBot is an advanced literary analysis tool built for educational purposes.  
 > It extracts statistical and linguistic insights from books — perfect for students, researchers, and literature enthusiasts.
 
